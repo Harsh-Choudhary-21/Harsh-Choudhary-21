@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
+<h3 align="center">💻 Computer Science Undergrad | Python & C++ Dev | Hackathon Explorer 🚀</h3>
 
-<!--
-**Harsh-Choudhary-21/Harsh-Choudhary-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Computer Science @ ABESIT, Ghaziabad (2024–2028)  
+- 💡 Exploring AI, Web Development, and Real-world Projects  
+- ⚙️ Participated in HackWithMAIT, CodeHunt, IEEE BVCOE, and more  
+- 🎹 Piano enthusiast and cultural event contributor  
+- 🧠 Focused on building practical, scalable tech solutions  
+
+---
+
+### 🧰 Tech Skills
+
+```mermaid
+pie showData
+    title My Tech Skillset
+    "Python": 30
+    "C++": 25
+    "Node.js": 15
+    "React.js": 10
+    "MySQL": 10
+    "OpenCV/MediaPipe": 10
+🛠️ Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,mysql,git,github,html,css,vscode" /> </p>
+📊 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Choudhary-21&show_icons=true&theme=radical&count_private=true" alt="Harsh's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Choudhary-21&layout=compact&theme=radical" alt="Top Languages" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Harsh-Choudhary-21&theme=radical&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Choudhary-21&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /> </p>
+📫 Connect with Me
+🌐 LinkedIn
+
+💻 GitHub
+
+"Code is not just what you write, it's what you leave behind." 🧠
