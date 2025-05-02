@@ -13,7 +13,7 @@
 
 ---
 
-### 🧰 Tech Skills
+### 🛠️ Tech Skills
 
 ```mermaid
 pie showData
@@ -24,17 +24,48 @@ pie showData
     "React.js": 10
     "MySQL": 10
     "OpenCV/MediaPipe": 10
-🛠️ Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,mysql,git,github,html,css,vscode" /> </p>
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Choudhary-21&show_icons=true&theme=radical&count_private=true" alt="Harsh's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Choudhary-21&layout=compact&theme=radical" alt="Top Languages" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Harsh-Choudhary-21&theme=radical&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Choudhary-21&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /> </p>
-📫 Connect with Me
-🌐 LinkedIn
+```
 
-💻 GitHub
+---
 
-"Code is not just what you write, it's what you leave behind." 🧠
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,mysql,git,github,html,css,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Choudhary-21&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Choudhary-21&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh-Choudhary-21&theme=radical&border_radius=5.5" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Choudhary-21&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-choudhary-88787311/)  
+- 💻 [GitHub](https://github.com/Harsh-Choudhary-21)
+
+---
+
+> _"Code is not just what you write, it's what you leave behind."_ 🧠
