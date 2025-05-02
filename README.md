@@ -43,15 +43,10 @@ pie showData
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Choudhary-21&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-### 🔥 GitHub Streak
+--- 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsh-Choudhary-21&theme=radical&border_radius=5.5" alt="GitHub Streak" />
-</p>
 
----
 
 ### 🏆 GitHub Trophies
 
